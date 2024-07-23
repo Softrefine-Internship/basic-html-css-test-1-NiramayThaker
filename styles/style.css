@@ -151,3 +151,22 @@
     width: 24%;
     margin-right: 25%;
 }
+
+
+/* page-5 */
+.page-5 {
+    height: 400px;
+    background-color: rgb(223, 209, 209);   ;
+}
+
+.pg-5-con {
+    display: inline-block;
+    height: 80%;
+    width: 45%;
+    background-color: white;
+    float: left;
+    margin: 50px 2.5%;
+}
+.con-5-2 {
+    float: right;
+}
