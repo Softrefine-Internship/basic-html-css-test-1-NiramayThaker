@@ -1,3 +1,4 @@
+/* main nav and container style  */
 .main-container {
     width: 1200px;
 }
@@ -8,6 +9,7 @@
     background-color: rgb(223, 209, 209);
 }
 
+/* page 1 */
 .page-1 {
     height: 800px;
 }
@@ -35,8 +37,10 @@
     background-color: rgb(223, 209, 209);;
 }
 
+
+/* page 2 */
 .page-2 {
-    height: 800px;
+    height: 500px;
     margin-top: 20%;
 }
 
@@ -56,6 +60,8 @@
     display: inline-block;
 }
 
+
+/* page-3  */
 .page-3 {
     height: 1000px;
 }
@@ -68,15 +74,39 @@
 }
 
 .pg3-sub-main-con {
+    margin: 5% auto;
     height: 800px;
     width: 100%;
     background-color: rgb(223, 209, 209);;
 }
 
 .sub-con {
-    
     width: 25%;
-    height: 80%;
+    height: 700px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 2%;
     background-color: white;
     display: inline-block;
+}
+
+.sub-nav {
+    width: 80%;
+    height: 55px;
+    margin: 5% auto;
+    background-color: rgb(223, 209, 209);
+}
+
+.sub-con-1 {
+    width: 80%;
+    height: 290px;
+    margin: 5% auto;
+    background-color: rgb(223, 209, 209);
+}
+
+.sub-con-2 {
+    width: 80%;
+    height: 290px;
+    margin: 5% auto;
+    background-color: rgb(223, 209, 209);
 }
