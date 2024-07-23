@@ -1,6 +1,8 @@
 /* main nav and container style  */
 .main-container {
     width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .main-nav {
@@ -109,4 +111,43 @@
     height: 290px;
     margin: 5% auto;
     background-color: rgb(223, 209, 209);
+}
+
+/* page-4 */
+.page-4 {
+    height: 900px;
+}
+
+.clear {
+    clear: both;
+}
+
+.pg-4-nav {
+    width: 30%;
+    height: 60px;
+    margin: 5% auto;
+    background-color: rgb(223, 209, 209);   
+}   
+
+.pg-4-sub-con {
+    width: 50%;
+    height: 80px;
+    margin: 2% auto;
+    background-color: rgb(223, 209, 209);   
+}   
+
+.con-large {
+    height: 300px;
+}
+
+.con-left {
+    float: left;
+    width: 24%;
+    margin-left: 25%;
+}
+
+.con-right {
+    float: right;
+    width: 24%;
+    margin-right: 25%;
 }
